@@ -1,7 +1,7 @@
 # labo-2-sensehat-nmdgent-gillpera
 
 
-# Mario Jumps
+# Mario
 
 Visualiseer Mario, die kan springen, op de Matrix van de SenseHat. Gebruik de ingebouwde joystick op de SenseHat om Mario te doen springen.
 
